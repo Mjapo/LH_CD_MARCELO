@@ -1,0 +1,13 @@
+
+pandas==1.5.3
+seaborn @ file:///tmp/build/80754af9/seaborn_1629307859561/work
+matplotlib @ file:///C:/ci/matplotlib-suite_1647423638658/work
+matplotlib-inline @ file:///tmp/build/80754af9/matplotlib-
+numpy @ file:///C:/ci/numpy_and_numpy_base_1649782970434/work
+numpydoc @ file:///opt/conda/conda-bld/numpydoc_1643788541039/work
+statsmodels==0.13.2
+streamlit==1.22.0
+GitPython==3.1.31
+msgpack @ file:///C:/ci/msgpack-python_1612287350784/work
+python-lsp-jsonrpc==1.0.0
+python-lsp-server==1.2.4
