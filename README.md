@@ -8,6 +8,10 @@ Para realizar o tratamento e visualização dos dados em formato de dataframe, f
 
 Para acessar o projeto no Google Colab, por favor, assegure-se de possuir uma conta do Google e estar conectado(a). vou deixar um link para o doawload do arquivo csv para teste.csv para conseguir realizar a analise preditiva . 
 
+##Colab
+
 link do google colab: https://colab.research.google.com/
+
+##Arqvui csv
 link do arquivo : https://drive.google.com/file/d/1erLm4KVF3bM6iw3S92ZiiYgPX-waGdaz/view?usp=sharing
 
