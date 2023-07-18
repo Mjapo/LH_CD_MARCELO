@@ -27,5 +27,7 @@ link do google colab: https://colab.research.google.com/
 ##Arquivo csv
 link do arquivo : https://drive.google.com/file/d/1erLm4KVF3bM6iw3S92ZiiYgPX-waGdaz/view?usp=sharing
 
+
+
 ##Link do power bi 
 https://app.powerbi.com/view?r=eyJrIjoiYTg1ZTY1NTgtN2JhNC00MmY4LTg2NzQtODIxZGIyYmQxNjk5IiwidCI6IjdiMzk1NThmLTM0OTMtNGUyZS05MjQ3LTNlYzk4YTg0MWYzZCJ9
